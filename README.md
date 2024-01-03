@@ -8,8 +8,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react)](https://skillicons.dev)
 
 ## Learning 🌱
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastify)](https://skillicons.dev)
+### API
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
+### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,prisma)](https://skillicons.dev)
+### Dev Ops
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Contact
