@@ -5,7 +5,7 @@
 - Passionate about programming
     
 ## Language and Tools 💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react)](https://skillicons.dev)
 
 ## Learning 🌱
 [![My Skills](https://skillicons.dev/icons?i=prisma,docker,nodejs,mysql,mongodb,fastify,nextjs)](https://skillicons.dev)
