@@ -11,7 +11,7 @@
 ### API
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,prisma)](https://skillicons.dev)
 ### Dev Ops
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
