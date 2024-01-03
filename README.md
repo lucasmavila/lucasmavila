@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind)](https://skillicons.dev)
 
 ## Learning 🌱
-[![My Skills](https://skillicons.dev/icons?i=prisma,docker,nodejs,mysql,mongodb,fastify,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,docker,nodejs,mysql,mongodb,fastify,nextjs)](https://skillicons.dev)
 
 ## Contact
 <a href="https://www.linkedin.com/in/lucas-mavila/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
