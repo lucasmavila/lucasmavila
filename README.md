@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Lucas and my nickname is "Soldado"!
+## My name is Lucas!
 
 - I’m currently working at Stone as Integration Specialist in transition to Full Stack Developer
 - Passionate about programming
