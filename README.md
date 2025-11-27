@@ -6,7 +6,7 @@ Desenvolvedor Full Stack
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,adonis)](https://skillicons.dev)
 
 ### Databases | Infra
-[![My Skills](https://skillicons.dev/icons?i=mongodb,docker,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,docker,gcp,azure)](https://skillicons.dev)
 
 ### Web
 [![My Skills](https://skillicons.dev/icons?i=react,angular,flutter)](https://skillicons.dev)
