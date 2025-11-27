@@ -1,11 +1,11 @@
 ## Lucas Ávila
 Desenvolvedor Full Stack
     
-## Language and Tools 💻
+## Skills | Knowledges 💻
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,adonis)](https://skillicons.dev)
 
-### Databases and Infra
+### Databases | Infra
 [![My Skills](https://skillicons.dev/icons?i=mongodb,docker,gcp)](https://skillicons.dev)
 
 ### Web
