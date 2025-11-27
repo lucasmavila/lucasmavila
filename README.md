@@ -1,19 +1,14 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Lucas!
-
-- I’m currently working at Stone as Integration Specialist in transition to Full Stack Developer
-- Passionate about programming
+## Lucas Ávila
+Desenvolvedor Full Stack 
     
 ## Language and Tools 💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ## Learning 🌱
-### API
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,prisma)](https://skillicons.dev)
-### Dev Ops
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgresql,prisma)](https://skillicons.dev)
 
 ## Books
  - The Mythical Man-Month | Frederick P. Brooks Jr.
