@@ -7,7 +7,6 @@ Desenvolvedor Full Stack
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,adonis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ### Databases and Infra
 [![My Skills](https://skillicons.dev/icons?i=mongodb,docker,gcp)](https://skillicons.dev)
