@@ -9,7 +9,7 @@ Desenvolvedor Full Stack
 [![My Skills](https://skillicons.dev/icons?i=mongodb,docker,gcp)](https://skillicons.dev)
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,angular,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,flutter)](https://skillicons.dev)
 
 ## Learning 🌱
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,prisma,aws)](https://skillicons.dev)
