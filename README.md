@@ -2,13 +2,18 @@
 Desenvolvedor Full Stack 
     
 ## Language and Tools 💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,angular)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
+### Web
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,angular)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,adonis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+### Databases and Infra
+[![My Skills](https://skillicons.dev/icons?i=mongodb,docker,gcp)](https://skillicons.dev)
 
 ## Learning 🌱
-[![My Skills](https://skillicons.dev/icons?i=java,postgresql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,prisma,aws)](https://skillicons.dev)
 
 ## Books
  - The Mythical Man-Month | Frederick P. Brooks Jr.
